@@ -2,8 +2,8 @@
 import pytest
 import pandas as pd
 
-from analizy import top_5_na_rok
-from analizy import diff
+from projekt_paczki.analizy import top_5_na_rok
+from projekt_paczki.analizy import diff
 
 
 Pop1 = pd.read_csv(r'Dane\API_SP.POP.TOTL_DS2_en_csv_v2_4751604.csv', skiprows = 3)

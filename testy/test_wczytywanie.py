@@ -1,6 +1,6 @@
 import pytest
 
-from analizy import wczytaj
+from projekt_paczki.analizy import wczytaj
 
 def test_wczytaj_sciezka():
     with pytest.raises(FileNotFoundError):
