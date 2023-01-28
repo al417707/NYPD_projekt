@@ -2,7 +2,7 @@ setup.cfg
 setup.py
 analizy/__init__.py
 analizy/analizy.py
-analizy/test_analizy.py
+analizy/wczytywanie.py
 project_package.egg-info/PKG-INFO
 project_package.egg-info/SOURCES.txt
 project_package.egg-info/dependency_links.txt
